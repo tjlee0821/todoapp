@@ -1,4 +1,4 @@
-package com.example.fast_app_base
+package my.oows.todoapp
 
 import io.flutter.embedding.android.FlutterActivity
 
